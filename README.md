@@ -1,6 +1,6 @@
-[//]: # (# Archived)
+# Archived
 
-[//]: # (The issue was closed in .)
+The original issue was closed in https://github.com/yargs/yargs/pull/2269.
 
 # repro-yargs-generate-broken-completion-with-alias
 
